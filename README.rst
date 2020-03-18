@@ -48,7 +48,7 @@ Social distancing and hygiene
 =============================
 * We will adhere to the recommendations by authorities about avoiding larger groups and staying at home except for essential errands
 * We will adhere to good practices diligently to protect ourselves by implementing preventative steps against the contracting and spreading covid-19 and other diseases.
-* The best recommendations will likely be provided by the authorities: <http://coronavirus.gov>_
+* The best recommendations will likely be provided by the authorities: `<http://coronavirus.gov>`_
 
 Self Isolation
 ==============
@@ -56,5 +56,4 @@ Self Isolation
    1. We think we may be sick (or)
    2. We undertake air travel of any kind
    3. We come back to campus from out of state
-
 * For self-isolation when we think we may be sick
