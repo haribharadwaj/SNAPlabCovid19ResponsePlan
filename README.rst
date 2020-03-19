@@ -36,11 +36,11 @@ Basics
 
 Working from home
 =================
-* All data that we have collected are remotely accessible through our synology drive ("Z drive", which contains larger-sized data),
-  google drive (organizational files and protocols),
-  or our OSF pages (some protocols files).
+* All data/files associated with our lab are remotely accessible through our synology drive ("Z drive", which contains larger-sized data),
+  google drive (organizational files, protocols, smaller data spreadsheets),
+  or our OSF pages (some protocols files and links mainly).
 * For those of us involved in coding up experiments or elaborate analyses, the general base code for our lab is available via our github pages.
-* As you know, access has been provided to all those who need access to specific areas of our different cloud repositories.
+* As you know, access has been provided to all those who need access to specific areas of our different repositories.
   In case you are missing access to any key areas that you believe you need, please let Hari know to fix it.
 * We think we all are fortunate enough to have access to a computer and good-quality internet to be able to work from home, and access course material.
   If this is a concern (e.g., data limits imposed by your ISP), please e-mail Hari to discuss options.
