@@ -56,7 +56,7 @@ Social distancing and hygiene
 
 Self Isolation
 ==============
-* We will practice self-isolation if
+* We will practice self-isolation if::
   1. We think there is a possibility that we may be sick (or)
   2. We think we may have been exposed to COVID-19 through contact with someone who tested positive or is under care for suspected covid-19 exposure (or)
   3. We come back to campus after undertaking air travel of any kind (or)
@@ -69,8 +69,8 @@ Self Isolation
 
 It is unlikely that we will *need* to come into work, but in case we do
 =======================================================================
-* Please wipe down surfaces with Clorox wipes (available in the lab) when you first come in and when you are about to leave.
-* For hard to wipe surfaces such as keyboard, spray hydrogen peroxide (that we normally use for disinfecting the EEG caps) from a distance.
+* Please wipe down hard surfaces with Clorox wipes (available in the lab) when you first come in and when you are about to leave.
+* For hard to wipe surfaces such as keyboard, spray hydrogen peroxide (that we normally use for disinfecting the EEG caps) from a distance and let air dry (before and after again).
 * Use Purell (available in the lab) before and after each time you are make contact with another subject/individual (this probably shouldn't be necessary given that all in-person human subject visits are on hold).
 * Wipe down circumaural head phones with "audio-wipes" after each use (insert earphones tips are single use, of course). If you can't find audiowipes or if we run out, Kleenex with a dash of Purell is a good substitute.
 * Discard all single-use items in the trash including syringes, used tape, eartips for insert earphones etc.
