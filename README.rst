@@ -57,10 +57,11 @@ Social distancing and hygiene
 Self Isolation
 ==============
 * We will practice self-isolation if::
-  1. We think there is a possibility that we may be sick (or)
-  2. We think we may have been exposed to COVID-19 through contact with someone who tested positive or is under care for suspected covid-19 exposure (or)
-  3. We come back to campus after undertaking air travel of any kind (or)
-  4. We come back to campus from out of state, regardless of means of travel.
+
+   1. We think there is a possibility that we may be sick (or)
+   2. We think we may have been exposed to COVID-19 through contact with someone who tested positive or is under care for suspected covid-19 exposure (or)
+   3. We come back to campus after undertaking air travel of any kind (or)
+   4. We come back to campus from out of state, regardless of means of travel.
 * For what it means to self-isolate when we think we may be sick or if we may be exposed to covid-19, please refer to the CDC page: `<http://coronavirus.gov>`_.
   **If you are in Indiana**, please see the `IU health coronavirus page <https://iuhealth.org/find-medical-services/coronavirus>`_
   for information including obtaining a free screening (which starts with a "virtual" visit).
