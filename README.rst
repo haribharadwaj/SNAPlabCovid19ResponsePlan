@@ -8,7 +8,10 @@ in response to the COVID-19 situation.
 Needless to say, the health and safety of our members, colleagues,
 and participants is the foremost priority. With that in mind,
 there are also research activities that we can move forward on
-in these uncertain times. Stay healthy!
+in these uncertain times. If you have concerns about this plan,
+please let Hari know by e-mail. Stay healthy!
+
+Last Updated: |date| at |time|.
 
 
 Basics
