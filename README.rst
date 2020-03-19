@@ -14,7 +14,7 @@ please let Hari know by e-mail. Stay healthy!
 .. |date| date::
 .. |time| date:: %H:%M
 
-Last Updated: |date| at |time|.
+**Last Updated**: |date| at |time|.
 
 
 Basics
