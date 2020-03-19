@@ -56,6 +56,7 @@ Social distancing and hygiene
 Self Isolation
 ==============
 * We will practice self-isolation if:
+
    1. We think there is a possibility that we may be sick (or)
    2. We think we may have been exposed to COVID-19 through contact with someone who tested positive or is under care for suspected covid-19 exposure (or)
    3. We come back to campus after undertaking air travel of any kind (or)
