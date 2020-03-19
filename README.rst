@@ -46,6 +46,8 @@ Working from home
   If this is a concern (e.g., data limits imposed by your ISP), please e-mail Hari to discuss options.
 * For heavier computing, remote access into your desktop computer in LYLE (rather than a home computer or laptop) is perhaps the best option.
   Please let Hari know if you are having any trouble accessing your computer remotely and you have plans to do extensive computing/analyses.
+* Purdue has made available a new higher-capacity VPN (webvpn2.purdue.edu).
+  See `this page for the announcement <https://www.itap.purdue.edu/newsroom/200318_usewebvpn2.html>`_.
 * In terms of *what* we could be doing from home to keep research activities going,
   the best course of action varies from person to person and could range from writing papers/grants, reading literature,
   performing data analysis, exploring online options for psychoacoustics, learning software skills (e.g., MATLAB/Python and our usual toolboxes), etc.
