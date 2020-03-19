@@ -39,7 +39,7 @@ Working from home
 * We think we all are fortunate enough to have access to a computer and good-quality internet to be able to work from home, and access course material.
   If this is a concern (e.g., data limits imposed by your ISP), please e-mail Hari to discuss options.
 * For heavier computing, remote access into your desktop computer in LYLE (rather than a home computer or laptop) is perhaps the best option.
-  Please let Hari know if you are having any trouble accessing your computer remotely and you have plans to do extensive comuting/analyses.
+  Please let Hari know if you are having any trouble accessing your computer remotely and you have plans to do extensive computing/analyses.
 * In terms of *what* we could be doing from home to keep research activities going,
   the best course of action varies from person to person and could range from writing papers/grants, reading literature,
   performing data analysis, exploring online options for psychoacoustics, learning software skills (e.g., MATLAB/Python and our usual toolboxes), etc.
@@ -50,23 +50,21 @@ Working from home
 Social distancing and hygiene
 =============================
 * We will adhere to the recommendations by authorities about avoiding larger groups, staying at home except for essential errands, and avoiding public transport.
-* We will adhere to good practices diligently to protect ourselves by implementing preventative steps (e.g., washing hands regularly) against contracting and spreading covid-19 and other diseases.
-* The best recommendations will be provided by the authorities: `<http://coronavirus.gov>`_
-
+* We will adhere to recommended practices to protect ourselves by implementing preventative steps (e.g., washing hands regularly) against contracting and spreading covid-19 and other diseases.
+* For definitive information, please see the `CDC page on prevention <https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html>`_.
 
 Self Isolation
 ==============
 * We will practice self-isolation if:
-
    1. We think there is a possibility that we may be sick (or)
    2. We think we may have been exposed to COVID-19 through contact with someone who tested positive or is under care for suspected covid-19 exposure (or)
    3. We come back to campus after undertaking air travel of any kind (or)
    4. We come back to campus from out of state, regardless of means of travel.
-* For what it means to self-isolate when we think we may be sick or if we may be exposed to covid-19, please refer to the CDC page: `<http://coronavirus.gov>`_.
+* For what it means to self-isolate when we think we may be sick or if we may be exposed to covid-19, please refer to `the corresponding CDC page <https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html>`_.
   **If you are in Indiana**, please see the `IU health coronavirus page <https://iuhealth.org/find-medical-services/coronavirus>`_
   for information including obtaining a free screening (which starts with a "virtual" visit).
 * For self-isolating due to travel (either by air anywhere, or by any means returning from out of state),
-  we will follow the same steps recommended by the CDC for those returning from international travel (i.e., self isolation as if we think we may have been exposed for a 14-day period and the proper steps to discontinue self isolation).
+  we will follow the same steps recommended by the CDC for those returning from international travel (i.e., self isolation as if we think we may have been exposed for a 14-day period PLUS `the proper steps to discontinue self isolation as described by the CDC <https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html>`_).
 
 It is unlikely that we will *need* to come into work, but in case we do
 =======================================================================
