@@ -66,7 +66,7 @@ Self Isolation
   **If you are in Indiana**, please see the `IU health coronavirus page <https://iuhealth.org/find-medical-services/coronavirus>`_
   for information including obtaining a free screening (which starts with a "virtual" visit).
 * For self-isolating due to travel (either by air anywhere, or by any means returning from out of state),
-  we will follow the same steps recommended by the CDC for those returning from international travel (i.e., self isolation for a 14-day period and the proper steps to discontinue self isolatio).
+  we will follow the same steps recommended by the CDC for those returning from international travel (i.e., self isolation as if we think we may have been exposed for a 14-day period and the proper steps to discontinue self isolation).
 
 It is unlikely that we will *need* to come into work, but in case we do
 =======================================================================
