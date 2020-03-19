@@ -25,6 +25,7 @@ Basics
 * If you are a student and back home for spring break, please consider whether you would like to stay at home or come back to campus.
   Currently, there is not much we can accomplish specifically by being on campus that we cannot accomplish from home.
   In case you do decide to come back to campus, please see the self isolation section associated with travel.
+* Check communication channels like e-mail and blackboard regularly.
 
 
 Working from home
@@ -43,17 +44,35 @@ Working from home
   the best course of action varies from person to person and could range from writing papers/grants, reading literature,
   performing data analysis, exploring online options for psychoacoustics, learning software skills (e.g., MATLAB/Python and our usual toolboxes), etc.
   **Please e-mail Hari to setup a time during the week after spring break to discuss and come up with a plan**
+* All meetings will happen via online tools (WebEx, Zoom, Skype) by default.
+
 
 Social distancing and hygiene
 =============================
-* We will adhere to the recommendations by authorities about avoiding larger groups and staying at home except for essential errands
-* We will adhere to good practices diligently to protect ourselves by implementing preventative steps against the contracting and spreading covid-19 and other diseases.
-* The best recommendations will likely be provided by the authorities: `<http://coronavirus.gov>`_
+* We will adhere to the recommendations by authorities about avoiding larger groups, staying at home except for essential errands, and avoiding public transport.
+* We will adhere to good practices diligently to protect ourselves by implementing preventative steps (e.g., washing hands regularly) against contracting and spreading covid-19 and other diseases.
+* The best recommendations will be provided by the authorities: `<http://coronavirus.gov>`_
+
 
 Self Isolation
 ==============
-* As recommended by the CDC, we will practice self-isolation if
-   1. We think we may be sick (or)
-   2. We undertake air travel of any kind
-   3. We come back to campus from out of state
-* For self-isolation when we think we may be sick
+* We will practice self-isolation if
+  1. We think there is a possibility that we may be sick (or)
+  2. We think we may have been exposed to COVID-19 through contact with someone who tested positive or is under care for suspected covid-19 exposure (or)
+  3. We come back to campus after undertaking air travel of any kind (or)
+  4. We come back to campus from out of state, regardless of means of travel.
+* For what it means to self-isolate when we think we may be sick or if we may be exposed to covid-19, please refer to the CDC page: `<http://coronavirus.gov>`_.
+  **If you are in Indiana**, please see the `IU health coronavirus page <https://iuhealth.org/find-medical-services/coronavirus>`_
+  for information including obtaining a free screening (which starts with a "virtual" visit).
+* For self-isolating due to travel (either by air anywhere, or by any means returning from out of state),
+  we will follow the same steps recommended by the CDC for those returning from international travel (i.e., self isolation for a 14-day period and the proper steps to discontinue self isolatio).
+
+It is unlikely that we will *need* to come into work, but in case we do
+=======================================================================
+* Please wipe down surfaces with Clorox wipes (available in the lab) when you first come in and when you are about to leave.
+* For hard to wipe surfaces such as keyboard, spray hydrogen peroxide (that we normally use for disinfecting the EEG caps) from a distance.
+* Use Purell (available in the lab) before and after each time you are make contact with another subject/individual (this probably shouldn't be necessary given that all in-person human subject visits are on hold).
+* Wipe down circumaural head phones with "audio-wipes" after each use (insert earphones tips are single use, of course). If you can't find audiowipes or if we run out, Kleenex with a dash of Purell is a good substitute.
+* Discard all single-use items in the trash including syringes, used tape, eartips for insert earphones etc.
+* Ensure that our facilities are locked when leaving.
+
