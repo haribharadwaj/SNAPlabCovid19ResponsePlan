@@ -73,14 +73,18 @@ Self Isolation
   **If you are in Indiana**, please see the `IU health coronavirus page <https://iuhealth.org/find-medical-services/coronavirus>`_
   for information including obtaining a free screening (which starts with a "virtual" visit).
 * For self-isolating due to travel (either by air anywhere, or by any means returning from out of state),
-  we will follow the same steps recommended by the CDC for those returning from international travel (i.e., self isolation as if we think we may have been exposed for a 14-day period PLUS `the proper steps to discontinue self isolation as described by the CDC <https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html>`_).
+  we will follow the same steps recommended by the CDC for those returning from international travel
+  (i.e., self isolation as if we think we may have been exposed for a 14-day period PLUS
+  `the proper steps to discontinue self isolation as described by the CDC <https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html>`_).
 
-It is unlikely that we will *need* to come into work, but in case we do
-=======================================================================
+It is unlikely that we will *need* to come into our lab space or use the carrels, but in case we do
+===================================================================================================
+* Reconsider carefully if you really need to be there.
+* Maintain at least 6 feet with any other individuals you see. If that doesn't seem possible, arrange to time-share with the other person and come back at a different time.
 * Please wipe down hard surfaces with Clorox wipes (available in the lab) when you first come in and when you are about to leave.
 * For hard to wipe surfaces such as keyboard, spray hydrogen peroxide (that we normally use for disinfecting the EEG caps) from a distance and let air dry (before and after again).
 * Use Purell (available in the lab) before and after each time you make contact with another subject/individual -- *this probably shouldn't be necessary given that all in-person human subject visits are on hold*.
 * Wipe down circumaural head phones with "audio-wipes" after each use (insert earphones tips are single use, of course). If you can't find audiowipes or if we run out, Kleenex with a dash of Purell is a good substitute.
 * Discard all single-use items in the trash including syringes, used tape, eartips for insert earphones etc.
-* Ensure that our facilities are locked when leaving.
+* Ensure that our facilities are locked when leaving and computer screens are locked (but **not** logged off or shut down).
 
