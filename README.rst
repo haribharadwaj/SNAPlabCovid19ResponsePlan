@@ -16,10 +16,14 @@ please let Hari know by e-mail. Stay healthy!
 
 **Last Updated**: |date| at |time|.
 
+.. note::
+  NEW! At 12:29 pm on Monday, March 23, 2020, Gov. Eric Holcomb of Indiana issues a stay-at-home order.
+  For details, please see `the FAQ page page associated with the governor's executive order <https://www.in.gov/gov/3232.htm>`_.
+  Per this order, all non-essential personnel (includes all lab members at this point) are mandated to cease work.
+  The order also essentially mandates social distancing, self-isolation, and work-from-home for us.
 
 Basics
 ======
-
 * We will adhere to all policies and guidance provided by `Purdue <https://www.purdue.edu/newsroom/releases/2020/Q1/need-to-know-info-about-covid-2019.html>`_,
   the `CDC <http://coronavirus.gov>`_, and other federal and `local government authorities <https://www.in.gov/coronavirus/>`_.
 * Because we can afford to for now, we will also take additional precautions in the spirit of social distancing
@@ -79,6 +83,7 @@ Self Isolation
 
 It is unlikely that we will *need* to come into our lab space or use the carrels, but in case we do
 ===================================================================================================
+* **Per Gov. Holcomb's order, we are mandated to not come in. This section is therefore not relevant until the order is lifted.**
 * Reconsider carefully if you really need to be there.
 * Maintain at least 6 feet with any other individuals you see. If that doesn't seem possible, arrange to time-share with the other person and come back at a different time.
 * Please wipe down hard surfaces with Clorox wipes (available in the lab) when you first come in and when you are about to leave.
