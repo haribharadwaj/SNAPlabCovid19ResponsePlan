@@ -16,11 +16,15 @@ please let Hari know by e-mail. Stay healthy!
 
 **Last Updated**: |date| at |time|.
 
-.. topic:: IMPORTANT
+--------------------------------------------------------------------------------------------------------------------------------
+
+**IMPORTANT NOTE**:
   At 12:29 pm on Monday, March 23, 2020, Gov. Eric Holcomb of Indiana issues a stay-at-home order.
   For details, please see `the FAQ page page associated with the governor's executive order <https://www.in.gov/gov/3232.htm>`_.
   Per this order, all non-essential personnel (includes all lab members at this point) are mandated to cease work.
   The order also essentially mandates social distancing, self-isolation, and work-from-home for us.
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 Basics
