@@ -11,10 +11,8 @@ there are also research activities that we can move forward on
 in these uncertain times. If you have concerns about this plan,
 please let Hari know by e-mail. Stay healthy!
 
-.. |date| date::
-.. |time| date:: %H:%M
 
-**Last Updated**: |date| at |time|.
+**Last Updated**:  March 23, 2020.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
